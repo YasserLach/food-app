@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Dancing+Script:wght@600&family=Merriweather:ital@1&family=Permanent+Marker&family=Roboto&family=Satisfy&family=Shadows+Into+Light&display=swap');
+
+.fooTiltle {
+    text-align: center;
+    font-family: Satisfy;
+    font-weight: bolder;
+}
+
+.fooTiltle span {
+    color: #d1263a;
+}
+
+.fSubT{
+    font-family: Merriweather;
+    
+}
+
+.icons {
+    margin-left: 4px;
+    margin-right: 5px;
+}

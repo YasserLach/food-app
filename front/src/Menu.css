@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Dancing+Script:wght@600&family=Merriweather:ital@1&family=Permanent+Marker&family=Roboto&family=Satisfy&family=Shadows+Into+Light&display=swap');
+
+
+.column1 {
+   /* background-color: rgb(160, 93, 93);*/
+   /* background-image: url('/public/images/lfBar.webp');*/
+}
+.column2 {
+   /* background-color: rgb(73, 5, 5);*/
+   /* background-image: url('/public/images/lfBar.webp');*/
+}
+.mnItem {
+ font-family:"Satisfy";
+ font-weight: bolder;
+ text-align: center;
+ cursor: pointer;
+
+}
+
+
+
+
+
+
+
+
+
+
